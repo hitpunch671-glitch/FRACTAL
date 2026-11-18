@@ -1,0 +1,9 @@
+# NUNCA subas secretos a GitHub
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+.venv/
+venv/
